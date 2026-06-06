@@ -1,3 +1,3 @@
 ## Anotações Nivelamento | Hackers do Bem
 
-![Anotações](/anotacoes.md)
+![Anotações](anotacoes.md)
